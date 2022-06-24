@@ -1,3 +1,7 @@
 {
-  "notebooks": {}
+  "notebooks": {
+    "Black_Friday.ipynb": {
+      "slug": "d539224fee854adfbd6cdb6a88a7414f"
+    }
+  }
 }
